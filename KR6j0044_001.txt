@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:19.731716
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:05
 #+TITLE: 金剛頂經毘盧遮那一百八尊法身契印
 #+PROPERTY: CBETA_ID T18n0877
 #+PROPERTY: ID KR6j0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 877
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0044_T_000-0331b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0044_T_001-0331b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.877¶
-
- 金剛頂經毘盧遮那一百八尊法¶
+No. 877¶
+金剛頂經毘盧遮那　百八尊法¶
 身契印¶
 ¶
 善無畏三藏一行和上同譯¶
@@ -30,9 +29,9 @@ No.877¶
 
 #+BEGIN_VERSE
 「　稽首毘盧遮那佛
-　一切如來金剛頂
+　一切如來金剛頂」
 #+END_VERSE
-」¶
+¶
 
 金剛薩埵大心。¶
 
@@ -522,15 +521,11 @@ No.877¶
 　恒思明月鏡中坐
 　廓周法界虛空量¶
 　心得自在無去來
-　功德常行普迴向
+　功德常行普迴向」
 #+END_VERSE
-」¶
-
-入法身觀門
-:PROPERTIES:
-:head: 入法身觀門
-:END:
 ¶
+
+* 入法身觀門¶
 
 #+BEGIN_VERSE
 「　稽首毘盧遮那佛
@@ -589,9 +584,9 @@ No.877¶
 　有身有相權來化
 　非身非相是無為¶
 　悟此三昧涅槃宮
-　得入如來吉祥地
+　得入如來吉祥地」
 #+END_VERSE
-」¶
+¶
 
 毘盧遮那悉地流出相應句陀羅尼。¶
 
